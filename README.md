@@ -1,6 +1,6 @@
 # MICP_Model_v1.0
 ## 1. Introduction
-Welcome to the simulation models for low-density microplastic settings in the open oceans.  The model is combined with several programs (.ipynb) explicitly processed on Jupyter Notebook.  Users are encouraged to perform a reproduction of the simulation in the manuscript or use their dataset for further exploration.  The simulation model can generate low-density microplastics with different characteristics, estimating their trajectories under various oceanic conditions and seasons.  Due to the extreme size of the database, the current program only provides two sets of global ocean physical and chemical data for simulation and reproduction under typical seasons (summer and winter).  If users need inter-annual ocean physical and chemical data daily, please get in touch with us to provide more detailed datasets. 
+Welcome to the simulation models for low-density microplastic settings in the open oceans.  The model is combined with several programs (.ipynb) explicitly processed on Jupyter Notebook.  Users are encouraged to perform a reproduction of the simulation in the manuscript or use their dataset for further exploration.  The simulation model can generate low-density microplastics with different characteristics, estimating their trajectories under various oceanic conditions and seasons.  Due to the extreme size of the database, the current program only provides two sets of global ocean physical and chemical data for simulation and reproduction under typical seasons (summer and winter, which can be acquired through Google Docs).  If users need inter-annual ocean physical and chemical data daily, please get in touch with us to provide more detailed datasets. 
 ## 2. System requirements
 ### 2.1. Software dependencies and operating systems
 #### 2.1.1. Software dependencies
@@ -21,6 +21,7 @@ Basemap 1.2.2
 1. Download the zip file
 2. Extract the file and place the folder under the Jupyter Notebook working folder (Typically under the Windows user -- username folder)
 3. Open Jupyter Notebook and the model folder should be seen in the Jupyter Notebook file interface.
+4. Download the oceanic database from Google Docs and place it in the Data folder. (https://drive.google.com/drive/folders/1z980UNo9cgEpxFtLOrDoQg1u8lKwgySB?usp=sharing)
 ### 3.2. Typical install time on a "normal" desktop computer
 Approximately 30 minutes.
 ## 4. Demo
